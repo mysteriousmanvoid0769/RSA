@@ -1,3 +1,4 @@
-rsa.out
-rsa.exe
-rsa.obj
+*.out
+*.exe
+*.obj
+*.o
